@@ -1,0 +1,26 @@
+{
+  "name": "number_guessing_game_by_walid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.3",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^2.0.3",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/gradient-string": "^1.1.6",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  }
+}
